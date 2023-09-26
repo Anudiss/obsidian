@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "52ee145f281d1d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "136183a5870b7874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded4f9fc5bef158a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "55b3f3183938dae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Плаксин проект/Сентярь/Проект за сентябрь.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "563302fcbaf12e6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa60ea7bdc9bd432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6b33fcb9f1f3e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46aff6ce0ef45d3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4ee22e932946a44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.01103591918945
+  },
+  "right": {
+    "id": "244044a2e908b82f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a89d9e4828aa75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40accd9bc930d036",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Плаксин проект/Сентярь/Проект за сентябрь.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceb093c06778ed8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Плаксин проект/Сентярь/Проект за сентябрь.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a873e5844a63deec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "731626ae7bd29fe7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Плаксин проект/Сентярь/Проект за сентябрь.md"
+              }
+            }
+          },
+          {
+            "id": "43d792ec7cdce907",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 472.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "55b3f3183938dae8",
+  "lastOpenFiles": [
+    "Плаксин проект/Сентярь/Проект за сентябрь.md",
+    "Плаксин проект/Сентярь",
+    "Плаксин проект",
+    "ффлывлфлыв.md",
+    "Диплом",
+    "testMarkdown.md",
+    "Без названия.canvas",
+    "Без названия 1.md"
+  ]
+}
